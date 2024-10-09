@@ -37,7 +37,7 @@ if section == "Introduction":
     # Cover Photo 
     st.image('report-cover.png', use_column_width=True)
 
-    st.title('Weather Data Exploration Report')
+    st.title('Weathers Data Exploration Report')
     
     st.header('Introduction')
     st.write("""
